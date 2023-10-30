@@ -24,7 +24,7 @@ This is a counter app that allows you to do the following
 it can be ran on any internet enabled device it is optimised for both pc and smartphones, dependecies include : Parcel, React DOM, React Error Boundary, React Router DOM and React scripts.
 
 deployed using vercel.
-here is the link to the deployed site: https://csb-k5x74n-kxe3p5p9h-scot-cees-projects.vercel.app/
+here is the link to the deployed site: https://alt-school-2nd-sem-project.vercel.app/
 
 ## usage
 used for counting numbers and for react learning for the creator.
